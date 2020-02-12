@@ -5,7 +5,7 @@ int main(int argc, char *argv[ ])
 {
 QApplication app(argc, argv);
  
-QPushButton button("CORONAVIRUS in CHINA!OOPS");
+QPushButton button("CORONAVIRUS in CHINA!OOPS9");
 button.resize(200, 60);
 button.show( );
  
